@@ -14,6 +14,8 @@
 4. 將功能封裝在一個類中
 5. static用於儲存靜態網頁
 
+## EX: 訪問Sublme Text 靜態網頁網頁
+
 ![image](https://github.com/dian0624/HTTPServer/blob/master/555.jpg)
 
 
